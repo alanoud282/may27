@@ -1,0 +1,21 @@
+{
+    "data":[
+    {
+        "title": "color",
+        "items": [
+        "red", "black" ,"green" , "gray"]
+    },
+    {
+    "title": "cars",
+    "items": [
+        "BMW", "KIA" ,"HONDA" , "BENZ"
+    ]
+},
+    {
+    "title": "Number",
+    "items": [
+        "one", "two" ,"three" , "four"
+    ]
+}
+    ]
+}
